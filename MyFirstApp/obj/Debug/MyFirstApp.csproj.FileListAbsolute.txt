@@ -1,0 +1,5 @@
+/Users/Amit/Desktop/VSCode/MyFirstApp/MyFirstApp/bin/Debug/MyFirstApp.exe
+/Users/Amit/Desktop/VSCode/MyFirstApp/MyFirstApp/bin/Debug/MyFirstApp.pdb
+/Users/Amit/Desktop/VSCode/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/Amit/Desktop/VSCode/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.exe
+/Users/Amit/Desktop/VSCode/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.pdb
